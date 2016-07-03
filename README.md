@@ -2,4 +2,4 @@
 
 Welcome to my projects site!
 
-Feel free to reach out if you have any questions on the code or methodolog.
+Feel free to reach out if you have any questions on the code or methodology.
