@@ -8,7 +8,7 @@ Email :    danrgonzalez@gmail.com
 
 Follow me on:
 
-twitter:   @ElDataScientist
+twitter:   @ElDataScientist  
 instagram: @ElDataScientist
 
 ## Simplifying the Metal Level Calculator
