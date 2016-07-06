@@ -1,6 +1,15 @@
-# Welcome to my Data Science Projects' Github
+# Welcome to my Data Science Github
+
+I've uploaded several notebooks showcasing my recent Data Science projects. A brief description of the work and findings can be found below. 
 
 Feel free to reach out if you have any questions on the code or methodology.
+
+Email :    danrgonzalez@gmail.com
+
+Follow me on:
+
+twitter:   @ElDataScientist
+instagram: @ElDataScientist
 
 ## Simplifying the Metal Level Calculator
 
