@@ -40,3 +40,5 @@ I moved on to next steps but did not get the job...bummer, seemed like a nice gi
 This was another challenge, however, this one was part of a "Spot Recruitment" event. Essentially, if you impressed their team, you could get hired on the spot. Spoiler Alert! CEO wasn't there, so no way. 
 
 I moved on to the next round but did not get the job...bummer, seemed like a nice gig.
+
+I have two notebooks for this one. The first is the code that I wrote on the spot. The second is a re-work with h2o.ai's platform. 
