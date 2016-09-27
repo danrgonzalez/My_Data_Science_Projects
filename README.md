@@ -17,6 +17,10 @@ Proposed a simplified method by which Health Insurance Companies can assign Meta
 
 The ipython notebook shows all my pre-processing steps and the model selection and validation. 
 
+## Legalese Detection
+
+Recent California court rulings were utilized to train a supervised NLP model to identify sentences that most resemble legalese. The sentences can originate from any text. The model was tested on a twitter stream and was able to rank users who are most associated to the legal field. Namely, people like Nina Totenberg and Eric Holder score high, while Justin Bieber does not, as expected.
+
 ## SF Crime Activity Visualization with Processing
 
 Created a time-lapse visualization to map over 800K data points based on San Francisco's crime activity. Processing is a Java based visualization tool.
@@ -25,20 +29,14 @@ The .pde files are Processing files containing the Java code for the visualizati
 
 Learn more about Processing for Visuzalization: https://processing.org/
 
-## Legalese Detection
-
-Recent California court rulings were utilized to train a supervised NLP model to identify sentences that most resemble legalese. The sentences can originate from any text. The model was tested on a twitter stream and was able to rank users who are most associated to the legal field. Namely, people like Nina Totenberg and Eric Holder score high, while Justin Bieber does not, as expected.
-
 ## Challenge 1
 
-I was interviewing for a job recently and received this Challenge. We are essentially presented with unknown/anonymized explanatory variables and a binary target variable. We are to comment on any relationships. 
-
-I moved on to next steps but did not get the job...bummer, seemed like a nice gig.
+I was interviewing for a job recently and received this Challenge. We are essentially presented with unknown/anonymized explanatory variables and a binary target variable. We are to comment on any relationships. The notebook showcases my exploratory data analysis, data visualization, and modeling. 
 
 ## Challenge 2
 
-This was another challenge, however, this one was part of a "Spot Recruitment" event. Essentially, if you impressed their team, you could get hired on the spot. Spoiler Alert! CEO wasn't there, so no way. 
+This was another challenge, however, this one was part of a "Spot Recruitment" event. Essentially, if you impressed their team, you could get hired on the spot. Spoiler Alert! CEO wasn't there that day, so no one could get hired. I moved on to the next round but did not get the job.
 
-I moved on to the next round but did not get the job...bummer, seemed like a nice gig.
+The challenge here was a 3-way classification problem given 19 continuous variables and a target. We were given 1 hour to complete. 
 
-I have two notebooks for this one. The first is the code that I wrote on the spot. The second is a re-work with h2o.ai's platform. 
+I have two notebooks for this Challenge. The first is code that I wrote on the spot. The second is a re-work with h2o.ai's platform.
