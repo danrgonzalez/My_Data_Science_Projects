@@ -21,6 +21,14 @@ The ipython notebook shows all my pre-processing steps and the model selection a
 
 Recent California court rulings were utilized to train a supervised NLP model to identify sentences that most resemble legalese. The sentences can originate from any text. The model was tested on a twitter stream and was able to rank users who are most associated to the legal field. Namely, people like Nina Totenberg and Eric Holder score high, while Justin Bieber does not, as expected.
 
+## Movie Recommendation Engine
+
+I completed this project as part of my Masters in Data Science program. Several recommendation engines were evaluated to arrive at the best recommender engine for this particular dataset. We downloaded the MovieLens movie ratings dataset to train our models. Precision-Recall curves were utilized to evaluate and compare models. 
+
+http://grouplens.org/datasets/movielens/
+
+Apparently, Github can't handle the size of our rendered notebook to display here but you can download it and run it on any browser as an HTML. 
+
 ## SF Crime Activity Visualization with Processing
 
 Created a time-lapse visualization to map over 800K data points based on San Francisco's crime activity. Processing is a Java based visualization tool.
