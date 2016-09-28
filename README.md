@@ -23,7 +23,7 @@ Recent California court rulings were utilized to train a supervised NLP model to
 
 ## Movie Recommendation Engine
 
-I completed this project as part of my Masters in Data Science program. Several recommendation engines were evaluated to arrive at the best recommender engine for this particular dataset. We downloaded the MovieLens movie ratings dataset to train our models. Precision-Recall curves were utilized to evaluate and compare models. 
+I completed this project as part of my Masters in Data Science program. Several GraphLab (https://turi.com/) Recommendation engines were evaluated to arrive at the best recommender engine for this particular dataset. We downloaded the MovieLens movie ratings dataset to train our models and overcome the cold-start problem. Precision-Recall curves were utilized to evaluate and compare models. 
 
 http://grouplens.org/datasets/movielens/
 
