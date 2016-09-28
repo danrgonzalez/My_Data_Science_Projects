@@ -29,6 +29,10 @@ http://grouplens.org/datasets/movielens/
 
 Apparently, Github can't handle the size of our rendered notebook to display here but you can download it and run it on any browser as an HTML. 
 
+## Predicting RedHat Business Value
+
+I created a classification model to accurately identify customers with the most potential business value as defined by Red Hat. Although customer information and activities were anonymized, supervised classification models highlighted three main features pertaining to customer characteristics that lead to successful outcomes.
+
 ## SF Crime Activity Visualization with Processing
 
 Created a time-lapse visualization to map over 800K data points based on San Francisco's crime activity. Processing is a Java based visualization tool.
